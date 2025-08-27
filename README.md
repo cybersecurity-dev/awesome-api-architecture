@@ -17,11 +17,11 @@
 - [WebSocket](#websocket)
 - [Webhooks](#webhooks)
 
-### [REST](https://en.wikipedia.org/wiki/REST)
+### [REST](https://en.wikipedia.org/wiki/REST) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/restAPI)
 
 ### [gRPC](https://en.wikipedia.org/wiki/GRPC)
 
-### [GraphQL](https://en.wikipedia.org/wiki/GraphQL)
+### [GraphQL](https://en.wikipedia.org/wiki/GraphQL) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/graphql/)
 
 ### [SOAP](https://en.wikipedia.org/wiki/SOAP)
 
