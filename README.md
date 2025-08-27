@@ -39,6 +39,6 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-cryptography/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-api-architecture/graphs/contributors)!
 
-[🔼 Back to top](#awesome-cryptography-)
+[🔼 Back to top](#awesome-api-architecture-)
