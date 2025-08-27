@@ -9,3 +9,15 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+
+# [REST](https://en.wikipedia.org/wiki/REST)
+
+# [gRPC](https://en.wikipedia.org/wiki/GRPC)
+
+# [GraphQL](https://en.wikipedia.org/wiki/GraphQL)
+
+# [SOAP](https://en.wikipedia.org/wiki/SOAP)
+
+# [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
+
+# [Webhooks](https://en.wikipedia.org/wiki/Webhook)
