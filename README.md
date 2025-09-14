@@ -16,6 +16,9 @@
 - [SOAP](#soap)
 - [WebSocket](#websocket)
 - [Webhooks](#webhooks)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ### [REST](https://en.wikipedia.org/wiki/REST) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/r/restAPI)
 
